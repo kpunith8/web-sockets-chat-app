@@ -1,0 +1,24 @@
+{
+  "name": "web-sockets-chat-app",
+  "version": "1.0.0",
+  "description": "WebSockets using sockets.io to build sample chat app",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Punith K",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  }
+}
