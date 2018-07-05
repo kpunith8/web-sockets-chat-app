@@ -1,6 +1,6 @@
 {
   "name": "Chat App",
-  "description": "Chat App using WebsSockets with socket.io",
+  "description": "Chat App using WebSockets with socket.io",
   "repository": "https://github.com/kpunith8/web-sockets-chat-app",
   "logo": "",
   "keywords": ["node", "express", "heroku"],
