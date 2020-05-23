@@ -2,7 +2,7 @@
   "name": "Chat App",
   "description": "Chat App using WebSockets with socket.io",
   "repository": "https://github.com/kpunith8/web-sockets-chat-app",
-  "logo": "",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
