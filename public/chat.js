@@ -1,6 +1,6 @@
 window.onload = function () {
   // Make connection from client
-  var socket = io.connect('https://immense-reef-31201.herokuapp.com/');
+  var socket = io.connect('https://web-sockets-chat-app.herokuapp.com/');
 
   // Query DOM
   var message = document.getElementById('message');
